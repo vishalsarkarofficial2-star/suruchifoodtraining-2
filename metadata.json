@@ -1,0 +1,6 @@
+{
+  "name": "Suruchi Food Training",
+  "description": "Professional practical food training and cooking academy offering hands-on courses in Indian, Bengali, Bakery, Cakes, Snacks, and Food Business.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
